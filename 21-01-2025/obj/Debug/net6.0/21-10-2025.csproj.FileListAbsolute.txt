@@ -1,0 +1,15 @@
+D:\Dotnet Framework\21-10-2025\bin\Debug\net6.0\21-10-2025.exe
+D:\Dotnet Framework\21-10-2025\bin\Debug\net6.0\21-10-2025.deps.json
+D:\Dotnet Framework\21-10-2025\bin\Debug\net6.0\21-10-2025.runtimeconfig.json
+D:\Dotnet Framework\21-10-2025\bin\Debug\net6.0\21-10-2025.dll
+D:\Dotnet Framework\21-10-2025\bin\Debug\net6.0\21-10-2025.pdb
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.csproj.AssemblyReference.cache
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.AssemblyInfoInputs.cache
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.AssemblyInfo.cs
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.dll
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\refint\21-10-2025.dll
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.pdb
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\21-10-2025.genruntimeconfig.cache
+D:\Dotnet Framework\21-10-2025\obj\Debug\net6.0\ref\21-10-2025.dll
