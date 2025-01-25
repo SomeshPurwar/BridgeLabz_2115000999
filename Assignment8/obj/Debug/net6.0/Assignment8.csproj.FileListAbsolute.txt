@@ -1,0 +1,15 @@
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.csproj.AssemblyReference.cache
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment8\bin\Debug\net6.0\Assignment8.exe
+D:\Dotnet Framework\Assignment8\bin\Debug\net6.0\Assignment8.deps.json
+D:\Dotnet Framework\Assignment8\bin\Debug\net6.0\Assignment8.runtimeconfig.json
+D:\Dotnet Framework\Assignment8\bin\Debug\net6.0\Assignment8.dll
+D:\Dotnet Framework\Assignment8\bin\Debug\net6.0\Assignment8.pdb
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.dll
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\refint\Assignment8.dll
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.pdb
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\Assignment8.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment8\obj\Debug\net6.0\ref\Assignment8.dll
