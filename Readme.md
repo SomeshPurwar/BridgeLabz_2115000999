@@ -24,3 +24,8 @@
 
 - New Branch Created with name: `Assignment/23-01-2025`
 - Assignment 4,5 and 6 completed .
+
+**Date:** 25-01-2025
+
+- New Branch Created with name: `Assignment/25-01-2025`
+- Assignment 7 and 8 on arrays completed .
