@@ -19,3 +19,8 @@
 
 - New Branch Created with name: `Assignment2/22-01-2025` and `Assignment3/22-01-2025`
 - Assignment 2 and 3 completed .
+
+**Date:** 23-01-2025
+
+- New Branch Created with name: `Assignment/23-01-2025`
+- Assignment 4,5 and 6 completed .
