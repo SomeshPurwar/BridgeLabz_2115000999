@@ -20,11 +20,6 @@
 - New Branch Created with name: `Assignment2/22-01-2025` and `Assignment3/22-01-2025`
 - Assignment 2 and 3 completed .
 
-**Date:** 27-01-2025
-
-- New Branch Created with name: `27-01-2025`
-- Learnt 2d array operations.
-
 **Date:** 23-01-2025
 
 - New Branch Created with name: `Assignment/23-01-2025`
@@ -34,3 +29,13 @@
 
 - New Branch Created with name: `Assignment/25-01-2025`
 - Assignment 7 and 8 on arrays completed .
+
+**Date:** 27-01-2025
+
+- New Branch Created with name: `27-01-2025`
+- Learnt 2d array operations.
+
+**Date:** 28-01-2025
+
+- New Branch Created with name: `Assignment/28-01-2025`
+- Assignment 9,10 and 11 on methods completed .
