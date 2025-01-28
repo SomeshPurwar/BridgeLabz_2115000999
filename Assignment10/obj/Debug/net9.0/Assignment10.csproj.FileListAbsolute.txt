@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment10\bin\Debug\net9.0\Assignment10.exe
+D:\Dotnet Framework\Assignment10\bin\Debug\net9.0\Assignment10.deps.json
+D:\Dotnet Framework\Assignment10\bin\Debug\net9.0\Assignment10.runtimeconfig.json
+D:\Dotnet Framework\Assignment10\bin\Debug\net9.0\Assignment10.dll
+D:\Dotnet Framework\Assignment10\bin\Debug\net9.0\Assignment10.pdb
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.dll
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\refint\Assignment10.dll
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.pdb
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\Assignment10.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment10\obj\Debug\net9.0\ref\Assignment10.dll

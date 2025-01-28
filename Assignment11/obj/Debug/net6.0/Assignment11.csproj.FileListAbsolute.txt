@@ -1,0 +1,15 @@
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.csproj.AssemblyReference.cache
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment11\bin\Debug\net6.0\Assignment11.exe
+D:\Dotnet Framework\Assignment11\bin\Debug\net6.0\Assignment11.deps.json
+D:\Dotnet Framework\Assignment11\bin\Debug\net6.0\Assignment11.runtimeconfig.json
+D:\Dotnet Framework\Assignment11\bin\Debug\net6.0\Assignment11.dll
+D:\Dotnet Framework\Assignment11\bin\Debug\net6.0\Assignment11.pdb
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.dll
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\refint\Assignment11.dll
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.pdb
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\Assignment11.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment11\obj\Debug\net6.0\ref\Assignment11.dll
