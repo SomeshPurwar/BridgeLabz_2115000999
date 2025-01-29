@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment14\bin\Debug\net9.0\Assignment14.exe
+D:\Dotnet Framework\Assignment14\bin\Debug\net9.0\Assignment14.deps.json
+D:\Dotnet Framework\Assignment14\bin\Debug\net9.0\Assignment14.runtimeconfig.json
+D:\Dotnet Framework\Assignment14\bin\Debug\net9.0\Assignment14.dll
+D:\Dotnet Framework\Assignment14\bin\Debug\net9.0\Assignment14.pdb
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.dll
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\refint\Assignment14.dll
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.pdb
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\Assignment14.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment14\obj\Debug\net9.0\ref\Assignment14.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment12\bin\Debug\net9.0\Assignment12.exe
+D:\Dotnet Framework\Assignment12\bin\Debug\net9.0\Assignment12.deps.json
+D:\Dotnet Framework\Assignment12\bin\Debug\net9.0\Assignment12.runtimeconfig.json
+D:\Dotnet Framework\Assignment12\bin\Debug\net9.0\Assignment12.dll
+D:\Dotnet Framework\Assignment12\bin\Debug\net9.0\Assignment12.pdb
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.dll
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\refint\Assignment12.dll
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.pdb
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\Assignment12.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment12\obj\Debug\net9.0\ref\Assignment12.dll
