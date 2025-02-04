@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment15\Employee\bin\Debug\net9.0\Employee.exe
+D:\Dotnet Framework\Assignment15\Employee\bin\Debug\net9.0\Employee.deps.json
+D:\Dotnet Framework\Assignment15\Employee\bin\Debug\net9.0\Employee.runtimeconfig.json
+D:\Dotnet Framework\Assignment15\Employee\bin\Debug\net9.0\Employee.dll
+D:\Dotnet Framework\Assignment15\Employee\bin\Debug\net9.0\Employee.pdb
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.dll
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\refint\Employee.dll
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.pdb
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\Employee.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment15\Employee\obj\Debug\net9.0\ref\Employee.dll

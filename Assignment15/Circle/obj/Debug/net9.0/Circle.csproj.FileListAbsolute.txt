@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment15\Circle\bin\Debug\net9.0\Circle.exe
+D:\Dotnet Framework\Assignment15\Circle\bin\Debug\net9.0\Circle.deps.json
+D:\Dotnet Framework\Assignment15\Circle\bin\Debug\net9.0\Circle.runtimeconfig.json
+D:\Dotnet Framework\Assignment15\Circle\bin\Debug\net9.0\Circle.dll
+D:\Dotnet Framework\Assignment15\Circle\bin\Debug\net9.0\Circle.pdb
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.dll
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\refint\Circle.dll
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.pdb
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\Circle.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment15\Circle\obj\Debug\net9.0\ref\Circle.dll
