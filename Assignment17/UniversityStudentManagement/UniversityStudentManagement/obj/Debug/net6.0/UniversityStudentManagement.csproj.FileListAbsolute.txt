@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\bin\Debug\net6.0\UniversityStudentManagement.exe
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\bin\Debug\net6.0\UniversityStudentManagement.deps.json
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\bin\Debug\net6.0\UniversityStudentManagement.runtimeconfig.json
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\bin\Debug\net6.0\UniversityStudentManagement.dll
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\bin\Debug\net6.0\UniversityStudentManagement.pdb
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.dll
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\refint\UniversityStudentManagement.dll
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.pdb
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\UniversityStudentManagement.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment17\UniversityStudentManagement\UniversityStudentManagement\obj\Debug\net6.0\ref\UniversityStudentManagement.dll

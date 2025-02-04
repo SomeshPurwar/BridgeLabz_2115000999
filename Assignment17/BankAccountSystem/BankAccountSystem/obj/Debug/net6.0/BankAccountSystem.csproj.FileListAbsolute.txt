@@ -1,0 +1,14 @@
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.exe
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.deps.json
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.runtimeconfig.json
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.dll
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.pdb
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.AssemblyInfo.cs
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.dll
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\refint\BankAccountSystem.dll
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.pdb
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.genruntimeconfig.cache
+D:\Dotnet Framework\BankAccountSystem\BankAccountSystem\obj\Debug\net6.0\ref\BankAccountSystem.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.exe
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.deps.json
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.dll
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.pdb
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.dll
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\refint\ShoppingCartSystem.dll
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.pdb
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment17\ShoppingCartSystem\ShoppingCartSystem\obj\Debug\net6.0\ref\ShoppingCartSystem.dll

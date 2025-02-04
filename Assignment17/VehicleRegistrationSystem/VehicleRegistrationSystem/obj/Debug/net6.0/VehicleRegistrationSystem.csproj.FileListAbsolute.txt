@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\bin\Debug\net6.0\VehicleRegistrationSystem.exe
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\bin\Debug\net6.0\VehicleRegistrationSystem.deps.json
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\bin\Debug\net6.0\VehicleRegistrationSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\bin\Debug\net6.0\VehicleRegistrationSystem.dll
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\bin\Debug\net6.0\VehicleRegistrationSystem.pdb
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.dll
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\refint\VehicleRegistrationSystem.dll
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.pdb
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\VehicleRegistrationSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment17\VehicleRegistrationSystem\VehicleRegistrationSystem\obj\Debug\net6.0\ref\VehicleRegistrationSystem.dll
