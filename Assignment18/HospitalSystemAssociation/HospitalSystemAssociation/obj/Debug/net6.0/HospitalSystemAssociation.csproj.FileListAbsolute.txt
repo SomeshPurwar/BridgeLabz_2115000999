@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\bin\Debug\net6.0\HospitalSystemAssociation.exe
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\bin\Debug\net6.0\HospitalSystemAssociation.deps.json
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\bin\Debug\net6.0\HospitalSystemAssociation.runtimeconfig.json
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\bin\Debug\net6.0\HospitalSystemAssociation.dll
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\bin\Debug\net6.0\HospitalSystemAssociation.pdb
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.dll
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\refint\HospitalSystemAssociation.dll
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.pdb
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\HospitalSystemAssociation.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment18\HospitalSystemAssociation\HospitalSystemAssociation\obj\Debug\net6.0\ref\HospitalSystemAssociation.dll

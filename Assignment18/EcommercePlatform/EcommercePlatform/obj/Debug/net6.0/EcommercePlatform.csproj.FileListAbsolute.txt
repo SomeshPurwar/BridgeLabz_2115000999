@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.exe
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.deps.json
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.runtimeconfig.json
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.dll
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.pdb
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.dll
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\refint\EcommercePlatform.dll
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.pdb
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment18\EcommercePlatform\EcommercePlatform\obj\Debug\net6.0\ref\EcommercePlatform.dll

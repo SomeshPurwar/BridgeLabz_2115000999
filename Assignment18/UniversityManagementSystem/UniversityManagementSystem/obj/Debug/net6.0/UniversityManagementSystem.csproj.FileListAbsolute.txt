@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.exe
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.deps.json
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.dll
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.pdb
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.dll
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\refint\UniversityManagementSystem.dll
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.pdb
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment18\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net6.0\ref\UniversityManagementSystem.dll

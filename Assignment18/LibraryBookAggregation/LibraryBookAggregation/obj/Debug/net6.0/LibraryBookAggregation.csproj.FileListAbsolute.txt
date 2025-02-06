@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\bin\Debug\net6.0\LibraryBookAggregation.exe
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\bin\Debug\net6.0\LibraryBookAggregation.deps.json
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\bin\Debug\net6.0\LibraryBookAggregation.runtimeconfig.json
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\bin\Debug\net6.0\LibraryBookAggregation.dll
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\bin\Debug\net6.0\LibraryBookAggregation.pdb
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.dll
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\refint\LibraryBookAggregation.dll
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.pdb
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\LibraryBookAggregation.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment17\LibraryBookAggregation\LibraryBookAggregation\obj\Debug\net6.0\ref\LibraryBookAggregation.dll
