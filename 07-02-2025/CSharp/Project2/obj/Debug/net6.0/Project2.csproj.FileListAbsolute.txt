@@ -1,0 +1,14 @@
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\bin\Debug\net6.0\Project2.exe
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\bin\Debug\net6.0\Project2.deps.json
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\bin\Debug\net6.0\Project2.runtimeconfig.json
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\bin\Debug\net6.0\Project2.dll
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\bin\Debug\net6.0\Project2.pdb
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.AssemblyInfoInputs.cache
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.AssemblyInfo.cs
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.dll
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\refint\Project2.dll
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.pdb
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
+D:\Dotnet Framework\07-02-2025\CSharp\Project2\obj\Debug\net6.0\ref\Project2.dll
