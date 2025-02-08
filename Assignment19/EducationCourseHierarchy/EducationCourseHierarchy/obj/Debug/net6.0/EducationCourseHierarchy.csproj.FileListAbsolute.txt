@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.exe
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.deps.json
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.runtimeconfig.json
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.dll
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.pdb
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.dll
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\refint\EducationCourseHierarchy.dll
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.pdb
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment19\EducationCourseHierarchy\EducationCourseHierarchy\obj\Debug\net6.0\ref\EducationCourseHierarchy.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\bin\Debug\net6.0\BankAccountTypes.exe
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\bin\Debug\net6.0\BankAccountTypes.deps.json
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\bin\Debug\net6.0\BankAccountTypes.runtimeconfig.json
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\bin\Debug\net6.0\BankAccountTypes.dll
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\bin\Debug\net6.0\BankAccountTypes.pdb
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.dll
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\refint\BankAccountTypes.dll
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.pdb
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\BankAccountTypes.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment19\BankAccountTypes\BankAccountTypes\obj\Debug\net6.0\ref\BankAccountTypes.dll

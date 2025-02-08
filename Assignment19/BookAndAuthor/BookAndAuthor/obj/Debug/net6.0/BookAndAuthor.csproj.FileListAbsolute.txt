@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\bin\Debug\net6.0\BookAndAuthor.exe
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\bin\Debug\net6.0\BookAndAuthor.deps.json
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\bin\Debug\net6.0\BookAndAuthor.runtimeconfig.json
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\bin\Debug\net6.0\BookAndAuthor.dll
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\bin\Debug\net6.0\BookAndAuthor.pdb
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.dll
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\refint\BookAndAuthor.dll
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.pdb
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\BookAndAuthor.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment19\BookAndAuthor\BookAndAuthor\obj\Debug\net6.0\ref\BookAndAuthor.dll

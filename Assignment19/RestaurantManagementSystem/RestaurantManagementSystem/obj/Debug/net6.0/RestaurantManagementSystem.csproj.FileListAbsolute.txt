@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net6.0\RestaurantManagementSystem.exe
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net6.0\RestaurantManagementSystem.deps.json
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net6.0\RestaurantManagementSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net6.0\RestaurantManagementSystem.dll
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\net6.0\RestaurantManagementSystem.pdb
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.dll
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\refint\RestaurantManagementSystem.dll
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.pdb
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\RestaurantManagementSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment19\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\net6.0\ref\RestaurantManagementSystem.dll
