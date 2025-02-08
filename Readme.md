@@ -71,3 +71,8 @@
 
 - New Branch Created with name: `07-02-2025`
 - Practice oops access specifier .
+
+**Date:** 08-02-2025
+
+- New Branch Created with name: `Assignment/08-02-2025`
+- Assignment done on oops inheritance .
