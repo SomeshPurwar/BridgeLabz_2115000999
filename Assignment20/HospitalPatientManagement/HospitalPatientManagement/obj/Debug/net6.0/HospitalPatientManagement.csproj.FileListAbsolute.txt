@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\bin\Debug\net6.0\HospitalPatientManagement.exe
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\bin\Debug\net6.0\HospitalPatientManagement.deps.json
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\bin\Debug\net6.0\HospitalPatientManagement.runtimeconfig.json
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\bin\Debug\net6.0\HospitalPatientManagement.dll
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\bin\Debug\net6.0\HospitalPatientManagement.pdb
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.dll
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\refint\HospitalPatientManagement.dll
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.pdb
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\HospitalPatientManagement.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment20\HospitalPatientManagement\HospitalPatientManagement\obj\Debug\net6.0\ref\HospitalPatientManagement.dll
