@@ -1,0 +1,14 @@
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.AssemblyInfoInputs.cache
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.AssemblyInfo.cs
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.exe
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.deps.json
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.runtimeconfig.json
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.dll
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.pdb
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.dll
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\refint\SinglyLinkedList.dll
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.pdb
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.genruntimeconfig.cache
+D:\Dotnet Framework\12-02-2025\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\ref\SinglyLinkedList.dll

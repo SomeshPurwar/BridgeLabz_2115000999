@@ -1,0 +1,14 @@
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.exe
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.deps.json
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.runtimeconfig.json
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.dll
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.pdb
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.AssemblyInfoInputs.cache
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.AssemblyInfo.cs
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.dll
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\refint\DoublyLinkedList.dll
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.pdb
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.genruntimeconfig.cache
+D:\Dotnet Framework\12-02-2025\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\ref\DoublyLinkedList.dll
