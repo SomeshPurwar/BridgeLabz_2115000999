@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\bin\Debug\net6.0\TaskScheduler.exe
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\bin\Debug\net6.0\TaskScheduler.deps.json
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\bin\Debug\net6.0\TaskScheduler.runtimeconfig.json
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\bin\Debug\net6.0\TaskScheduler.dll
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\bin\Debug\net6.0\TaskScheduler.pdb
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.dll
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\refint\TaskScheduler.dll
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.pdb
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\TaskScheduler.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment21\TaskScheduler\TaskScheduler\obj\Debug\net6.0\ref\TaskScheduler.dll

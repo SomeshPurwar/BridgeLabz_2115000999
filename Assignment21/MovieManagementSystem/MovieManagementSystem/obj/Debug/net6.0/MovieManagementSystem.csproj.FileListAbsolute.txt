@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.exe
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.deps.json
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.dll
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.pdb
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.dll
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\refint\MovieManagementSystem.dll
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.pdb
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment21\MovieManagementSystem\MovieManagementSystem\obj\Debug\net6.0\ref\MovieManagementSystem.dll

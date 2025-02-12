@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\bin\Debug\net6.0\InventoryMAnagementSystem.exe
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\bin\Debug\net6.0\InventoryMAnagementSystem.deps.json
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\bin\Debug\net6.0\InventoryMAnagementSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\bin\Debug\net6.0\InventoryMAnagementSystem.dll
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\bin\Debug\net6.0\InventoryMAnagementSystem.pdb
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.dll
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\refint\InventoryMAnagementSystem.dll
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.pdb
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\InventoryMAnagementSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment21\InventoryMAnagementSystem\InventoryMAnagementSystem\obj\Debug\net6.0\ref\InventoryMAnagementSystem.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\bin\Debug\net6.0\SocialMediaFriendConnection.exe
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\bin\Debug\net6.0\SocialMediaFriendConnection.deps.json
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\bin\Debug\net6.0\SocialMediaFriendConnection.runtimeconfig.json
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\bin\Debug\net6.0\SocialMediaFriendConnection.dll
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\bin\Debug\net6.0\SocialMediaFriendConnection.pdb
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.dll
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\refint\SocialMediaFriendConnection.dll
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.pdb
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\SocialMediaFriendConnection.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment21\SocialMediaFriendConnection\SocialMediaFriendConnection\obj\Debug\net6.0\ref\SocialMediaFriendConnection.dll

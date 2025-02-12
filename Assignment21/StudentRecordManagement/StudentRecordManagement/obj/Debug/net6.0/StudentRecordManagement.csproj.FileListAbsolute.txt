@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.exe
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.deps.json
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.runtimeconfig.json
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.dll
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.pdb
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.dll
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\refint\StudentRecordManagement.dll
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.pdb
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment21\StudentRecordManagement\StudentRecordManagement\obj\Debug\net6.0\ref\StudentRecordManagement.dll
