@@ -87,3 +87,7 @@
 - New Branch Created with name: `Assignment/11-02-2025`
 - Assignment done on Linked List.
 
+**Date:** 12-02-2025
+
+- New Branch Created with name: `12-02-2025`
+- Practice Singly and Doubly Linked List .
