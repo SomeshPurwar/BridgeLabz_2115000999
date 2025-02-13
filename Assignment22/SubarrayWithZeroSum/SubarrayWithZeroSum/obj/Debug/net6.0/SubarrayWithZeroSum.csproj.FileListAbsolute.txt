@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\bin\Debug\net6.0\SubarrayWithZeroSum.exe
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\bin\Debug\net6.0\SubarrayWithZeroSum.deps.json
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\bin\Debug\net6.0\SubarrayWithZeroSum.runtimeconfig.json
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\bin\Debug\net6.0\SubarrayWithZeroSum.dll
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\bin\Debug\net6.0\SubarrayWithZeroSum.pdb
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.dll
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\refint\SubarrayWithZeroSum.dll
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.pdb
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\SubarrayWithZeroSum.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment22\SubarrayWithZeroSum\SubarrayWithZeroSum\obj\Debug\net6.0\ref\SubarrayWithZeroSum.dll

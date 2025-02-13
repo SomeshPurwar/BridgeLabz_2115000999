@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\bin\Debug\net6.0\CheckForAPairWithGivenSum.exe
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\bin\Debug\net6.0\CheckForAPairWithGivenSum.deps.json
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\bin\Debug\net6.0\CheckForAPairWithGivenSum.runtimeconfig.json
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\bin\Debug\net6.0\CheckForAPairWithGivenSum.dll
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\bin\Debug\net6.0\CheckForAPairWithGivenSum.pdb
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.dll
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\refint\CheckForAPairWithGivenSum.dll
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.pdb
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\CheckForAPairWithGivenSum.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment22\CheckForAPairWithGivenSum\CheckForAPairWithGivenSum\obj\Debug\net6.0\ref\CheckForAPairWithGivenSum.dll
