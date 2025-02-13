@@ -91,3 +91,8 @@
 
 - New Branch Created with name: `12-02-2025`
 - Practice Singly and Doubly Linked List .
+
+**Date:** 13-02-2025
+
+- New Branch Created with name: `Assignment/13-02-2025`
+- Assignment done on Stack, Queue, HashMap.
