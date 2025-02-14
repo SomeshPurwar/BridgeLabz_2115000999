@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\refint\SelectionSort.dll
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment23\SelectionSort\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll

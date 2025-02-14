@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.exe
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.deps.json
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.runtimeconfig.json
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.dll
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.pdb
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.dll
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\refint\HeapSort.dll
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.pdb
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment23\HeapSort\HeapSort\obj\Debug\net6.0\ref\HeapSort.dll

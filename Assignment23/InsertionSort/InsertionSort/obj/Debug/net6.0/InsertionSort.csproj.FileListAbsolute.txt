@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment23\InsertionSort\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll

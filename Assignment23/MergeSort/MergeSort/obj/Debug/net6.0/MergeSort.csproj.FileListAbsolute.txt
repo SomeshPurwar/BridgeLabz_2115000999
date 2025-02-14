@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.exe
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.dll
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.dll
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment23\MergeSort\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll
