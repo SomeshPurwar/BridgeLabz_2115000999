@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\bin\Debug\net6.0\SearchIn2dMatrix.exe
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\bin\Debug\net6.0\SearchIn2dMatrix.deps.json
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\bin\Debug\net6.0\SearchIn2dMatrix.runtimeconfig.json
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\bin\Debug\net6.0\SearchIn2dMatrix.dll
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\bin\Debug\net6.0\SearchIn2dMatrix.pdb
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.dll
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\refint\SearchIn2dMatrix.dll
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.pdb
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\SearchIn2dMatrix.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment24\SearchIn2dMatrix\SearchIn2dMatrix\obj\Debug\net6.0\ref\SearchIn2dMatrix.dll

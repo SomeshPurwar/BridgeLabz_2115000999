@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\bin\Debug\net6.0\ConvertByteStreamToCharacter.exe
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\bin\Debug\net6.0\ConvertByteStreamToCharacter.deps.json
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\bin\Debug\net6.0\ConvertByteStreamToCharacter.runtimeconfig.json
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\bin\Debug\net6.0\ConvertByteStreamToCharacter.dll
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\bin\Debug\net6.0\ConvertByteStreamToCharacter.pdb
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.dll
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\refint\ConvertByteStreamToCharacter.dll
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.pdb
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ConvertByteStreamToCharacter.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment24\ConvertByteStreamToCharacter\ConvertByteStreamToCharacter\obj\Debug\net6.0\ref\ConvertByteStreamToCharacter.dll

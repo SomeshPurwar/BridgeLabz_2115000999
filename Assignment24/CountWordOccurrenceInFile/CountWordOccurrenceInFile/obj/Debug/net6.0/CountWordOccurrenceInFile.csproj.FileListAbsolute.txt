@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\bin\Debug\net6.0\CountWordOccurrenceInFile.exe
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\bin\Debug\net6.0\CountWordOccurrenceInFile.deps.json
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\bin\Debug\net6.0\CountWordOccurrenceInFile.runtimeconfig.json
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\bin\Debug\net6.0\CountWordOccurrenceInFile.dll
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\bin\Debug\net6.0\CountWordOccurrenceInFile.pdb
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.dll
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\refint\CountWordOccurrenceInFile.dll
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.pdb
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\CountWordOccurrenceInFile.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment24\CountWordOccurrenceInFile\CountWordOccurrenceInFile\obj\Debug\net6.0\ref\CountWordOccurrenceInFile.dll

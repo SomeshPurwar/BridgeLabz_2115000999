@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\bin\Debug\net6.0\FirstNegative.exe
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\bin\Debug\net6.0\FirstNegative.deps.json
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\bin\Debug\net6.0\FirstNegative.runtimeconfig.json
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\bin\Debug\net6.0\FirstNegative.dll
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\bin\Debug\net6.0\FirstNegative.pdb
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.dll
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\refint\FirstNegative.dll
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.pdb
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\FirstNegative.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment24\FirstNegative\FirstNegative\obj\Debug\net6.0\ref\FirstNegative.dll

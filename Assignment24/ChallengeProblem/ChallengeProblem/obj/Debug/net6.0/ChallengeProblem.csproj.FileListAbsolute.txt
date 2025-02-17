@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\bin\Debug\net6.0\ChallengeProblem.exe
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\bin\Debug\net6.0\ChallengeProblem.deps.json
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\bin\Debug\net6.0\ChallengeProblem.runtimeconfig.json
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\bin\Debug\net6.0\ChallengeProblem.dll
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\bin\Debug\net6.0\ChallengeProblem.pdb
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.dll
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\refint\ChallengeProblem.dll
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.pdb
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ChallengeProblem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment24\ChallengeProblem\ChallengeProblem\obj\Debug\net6.0\ref\ChallengeProblem.dll

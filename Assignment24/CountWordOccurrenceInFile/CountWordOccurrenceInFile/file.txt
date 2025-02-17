@@ -1,0 +1,4 @@
+﻿C# is a powerful language.
+Learning C# is fun!
+C# developers build amazing applications.
+c# is case-insensitive in this program.
