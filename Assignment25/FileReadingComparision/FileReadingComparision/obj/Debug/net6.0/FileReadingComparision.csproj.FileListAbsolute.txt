@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\bin\Debug\net6.0\FileReadingComparision.exe
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\bin\Debug\net6.0\FileReadingComparision.deps.json
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\bin\Debug\net6.0\FileReadingComparision.runtimeconfig.json
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\bin\Debug\net6.0\FileReadingComparision.dll
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\bin\Debug\net6.0\FileReadingComparision.pdb
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.dll
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\refint\FileReadingComparision.dll
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.pdb
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\FileReadingComparision.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment25\FileReadingComparision\FileReadingComparision\obj\Debug\net6.0\ref\FileReadingComparision.dll

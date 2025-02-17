@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\bin\Debug\net6.0\SortingLargeDataEfficiently.exe
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\bin\Debug\net6.0\SortingLargeDataEfficiently.deps.json
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\bin\Debug\net6.0\SortingLargeDataEfficiently.runtimeconfig.json
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\bin\Debug\net6.0\SortingLargeDataEfficiently.dll
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\bin\Debug\net6.0\SortingLargeDataEfficiently.pdb
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.dll
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\refint\SortingLargeDataEfficiently.dll
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.pdb
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\SortingLargeDataEfficiently.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment25\SortingLargeDataEfficiently\SortingLargeDataEfficiently\obj\Debug\net6.0\ref\SortingLargeDataEfficiently.dll
