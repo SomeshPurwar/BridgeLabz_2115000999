@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\bin\Debug\net6.0\MealPlanGenerator.exe
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\bin\Debug\net6.0\MealPlanGenerator.deps.json
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\bin\Debug\net6.0\MealPlanGenerator.runtimeconfig.json
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\bin\Debug\net6.0\MealPlanGenerator.dll
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\bin\Debug\net6.0\MealPlanGenerator.pdb
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.dll
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\refint\MealPlanGenerator.dll
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.pdb
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\MealPlanGenerator.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment26\MealPlanGenerator\MealPlanGenerator\obj\Debug\net6.0\ref\MealPlanGenerator.dll

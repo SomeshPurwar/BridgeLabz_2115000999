@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.exe
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.deps.json
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.runtimeconfig.json
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.dll
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.pdb
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.dll
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\refint\DynamicOnlineMarketplace.dll
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.pdb
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment26\DynamicOnlineMarketplace\DynamicOnlineMarketplace\obj\Debug\net6.0\ref\DynamicOnlineMarketplace.dll

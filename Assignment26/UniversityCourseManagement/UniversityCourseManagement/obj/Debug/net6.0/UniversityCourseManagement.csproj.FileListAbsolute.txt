@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\bin\Debug\net6.0\UniversityCourseManagement.exe
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\bin\Debug\net6.0\UniversityCourseManagement.deps.json
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\bin\Debug\net6.0\UniversityCourseManagement.runtimeconfig.json
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\bin\Debug\net6.0\UniversityCourseManagement.dll
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\bin\Debug\net6.0\UniversityCourseManagement.pdb
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.dll
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\refint\UniversityCourseManagement.dll
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.pdb
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\UniversityCourseManagement.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment26\UniversityCourseManagement\UniversityCourseManagement\obj\Debug\net6.0\ref\UniversityCourseManagement.dll
