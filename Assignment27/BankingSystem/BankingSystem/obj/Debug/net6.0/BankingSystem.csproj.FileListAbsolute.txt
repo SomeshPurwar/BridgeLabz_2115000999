@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.exe
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.deps.json
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.dll
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.pdb
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.dll
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\refint\BankingSystem.dll
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.pdb
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\BankingSystem\BankingSystem\obj\Debug\net6.0\ref\BankingSystem.dll

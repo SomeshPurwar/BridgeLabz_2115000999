@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\bin\Debug\net6.0\UnionAndIntersectionOfSet.exe
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\bin\Debug\net6.0\UnionAndIntersectionOfSet.deps.json
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\bin\Debug\net6.0\UnionAndIntersectionOfSet.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\bin\Debug\net6.0\UnionAndIntersectionOfSet.dll
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\bin\Debug\net6.0\UnionAndIntersectionOfSet.pdb
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.dll
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\refint\UnionAndIntersectionOfSet.dll
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.pdb
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\UnionAndIntersectionOfSet.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\UnionAndIntersectionOfSet\UnionAndIntersectionOfSet\obj\Debug\net6.0\ref\UnionAndIntersectionOfSet.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\bin\Debug\net6.0\RotateElementInList.exe
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\bin\Debug\net6.0\RotateElementInList.deps.json
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\bin\Debug\net6.0\RotateElementInList.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\bin\Debug\net6.0\RotateElementInList.dll
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\bin\Debug\net6.0\RotateElementInList.pdb
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.dll
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\refint\RotateElementInList.dll
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.pdb
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\RotateElementInList.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\RotateElementInList\RotateElementInList\obj\Debug\net6.0\ref\RotateElementInList.dll

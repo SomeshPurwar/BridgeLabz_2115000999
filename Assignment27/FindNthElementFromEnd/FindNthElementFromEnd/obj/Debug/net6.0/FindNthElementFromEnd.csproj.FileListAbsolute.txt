@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\bin\Debug\net6.0\FindNthElementFromEnd.exe
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\bin\Debug\net6.0\FindNthElementFromEnd.deps.json
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\bin\Debug\net6.0\FindNthElementFromEnd.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\bin\Debug\net6.0\FindNthElementFromEnd.dll
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\bin\Debug\net6.0\FindNthElementFromEnd.pdb
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.dll
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\refint\FindNthElementFromEnd.dll
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.pdb
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\FindNthElementFromEnd.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\FindNthElementFromEnd\FindNthElementFromEnd\obj\Debug\net6.0\ref\FindNthElementFromEnd.dll

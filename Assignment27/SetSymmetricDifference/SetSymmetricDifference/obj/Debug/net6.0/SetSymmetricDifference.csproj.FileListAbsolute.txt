@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\bin\Debug\net6.0\SetSymmetricDifference.exe
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\bin\Debug\net6.0\SetSymmetricDifference.deps.json
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\bin\Debug\net6.0\SetSymmetricDifference.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\bin\Debug\net6.0\SetSymmetricDifference.dll
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\bin\Debug\net6.0\SetSymmetricDifference.pdb
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.dll
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\refint\SetSymmetricDifference.dll
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.pdb
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\SetSymmetricDifference.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\SetSymmetricDifference\SetSymmetricDifference\obj\Debug\net6.0\ref\SetSymmetricDifference.dll

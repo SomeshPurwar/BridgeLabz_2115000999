@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\bin\Debug\net6.0\InvertMap.exe
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\bin\Debug\net6.0\InvertMap.deps.json
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\bin\Debug\net6.0\InvertMap.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\bin\Debug\net6.0\InvertMap.dll
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\bin\Debug\net6.0\InvertMap.pdb
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.dll
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\refint\InvertMap.dll
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.pdb
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\InvertMap.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\InvertMap\InvertMap\obj\Debug\net6.0\ref\InvertMap.dll

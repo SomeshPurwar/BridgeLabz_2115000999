@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\bin\Debug\net6.0\WordCountFromFile.exe
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\bin\Debug\net6.0\WordCountFromFile.deps.json
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\bin\Debug\net6.0\WordCountFromFile.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\bin\Debug\net6.0\WordCountFromFile.dll
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\bin\Debug\net6.0\WordCountFromFile.pdb
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.dll
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\refint\WordCountFromFile.dll
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.pdb
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\WordCountFromFile.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\WordCountFromFile\WordCountFromFile\obj\Debug\net6.0\ref\WordCountFromFile.dll

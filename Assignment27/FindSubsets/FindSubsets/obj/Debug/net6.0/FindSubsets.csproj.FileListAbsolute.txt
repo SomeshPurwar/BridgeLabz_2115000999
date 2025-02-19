@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\bin\Debug\net6.0\FindSubsets.exe
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\bin\Debug\net6.0\FindSubsets.deps.json
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\bin\Debug\net6.0\FindSubsets.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\bin\Debug\net6.0\FindSubsets.dll
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\bin\Debug\net6.0\FindSubsets.pdb
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.dll
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\refint\FindSubsets.dll
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.pdb
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\FindSubsets.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\FindSubsets\FindSubsets\obj\Debug\net6.0\ref\FindSubsets.dll

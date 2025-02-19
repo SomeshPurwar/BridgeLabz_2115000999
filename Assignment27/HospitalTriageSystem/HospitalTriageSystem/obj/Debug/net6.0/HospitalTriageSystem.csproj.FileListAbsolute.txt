@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\bin\Debug\net6.0\HospitalTriageSystem.exe
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\bin\Debug\net6.0\HospitalTriageSystem.deps.json
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\bin\Debug\net6.0\HospitalTriageSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\bin\Debug\net6.0\HospitalTriageSystem.dll
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\bin\Debug\net6.0\HospitalTriageSystem.pdb
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.dll
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\refint\HospitalTriageSystem.dll
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.pdb
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\HospitalTriageSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\HospitalTriageSystem\HospitalTriageSystem\obj\Debug\net6.0\ref\HospitalTriageSystem.dll

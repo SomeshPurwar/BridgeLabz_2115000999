@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\bin\Debug\net6.0\ReverseList.exe
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\bin\Debug\net6.0\ReverseList.deps.json
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\bin\Debug\net6.0\ReverseList.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\bin\Debug\net6.0\ReverseList.dll
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\bin\Debug\net6.0\ReverseList.pdb
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.dll
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\refint\ReverseList.dll
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.pdb
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ReverseList.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\ReverseList\ReverseList\obj\Debug\net6.0\ref\ReverseList.dll

@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\bin\Debug\net6.0\CheckTwoSetsAreEqual.exe
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\bin\Debug\net6.0\CheckTwoSetsAreEqual.deps.json
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\bin\Debug\net6.0\CheckTwoSetsAreEqual.runtimeconfig.json
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\bin\Debug\net6.0\CheckTwoSetsAreEqual.dll
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\bin\Debug\net6.0\CheckTwoSetsAreEqual.pdb
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.dll
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\refint\CheckTwoSetsAreEqual.dll
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.pdb
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\CheckTwoSetsAreEqual.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment27\CheckTwoSetsAreEqual\CheckTwoSetsAreEqual\obj\Debug\net6.0\ref\CheckTwoSetsAreEqual.dll
