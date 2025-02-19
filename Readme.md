@@ -111,3 +111,8 @@
 
 - New Branch Created with name: `Assignment/17-02-2025`
 - Assignment done on Analysis of Time Complexity.
+
+**Date:** 18-02-2025
+
+- New Branch Created with name: `Assignment/18-02-2025`
+- Assignment done on Generics.
