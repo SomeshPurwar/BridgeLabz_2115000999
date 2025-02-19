@@ -116,3 +116,8 @@
 
 - New Branch Created with name: `Assignment/18-02-2025`
 - Assignment done on Generics.
+
+**Date:** 19-02-2025
+
+- New Branch Created with name: `Assignment/19-02-2025`
+- Assignment done on Collections.
