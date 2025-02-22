@@ -121,3 +121,8 @@
 
 - New Branch Created with name: `Assignment/19-02-2025`
 - Assignment done on Collections.
+
+**Date:** 20-02-2025
+
+- New Branch Created with name: `Assignment/20-02-2025`
+- Assignment done on Streams.
