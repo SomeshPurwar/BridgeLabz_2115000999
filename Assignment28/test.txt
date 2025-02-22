@@ -1,0 +1,7 @@
+This is a test file for word frequency counting.
+The test file contains multiple words with different frequencies.
+Some words, like "test" and "file", appear more frequently.
+Other words may appear only once or twice.
+This file is used to demonstrate word counting functionality.
+Error messages should be detected in the text file.
+An error might occur if the file is missing.

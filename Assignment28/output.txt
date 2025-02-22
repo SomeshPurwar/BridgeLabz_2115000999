@@ -1,0 +1,2 @@
+hello from dotnet batch!
+this is shivam rajput

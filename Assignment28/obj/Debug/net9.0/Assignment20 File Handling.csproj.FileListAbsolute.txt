@@ -1,0 +1,15 @@
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\bin\Debug\net9.0\Assignment20 File Handling.exe
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\bin\Debug\net9.0\Assignment20 File Handling.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\bin\Debug\net9.0\Assignment20 File Handling.runtimeconfig.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\bin\Debug\net9.0\Assignment20 File Handling.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\bin\Debug\net9.0\Assignment20 File Handling.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.sourcelink.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\refint\Assignment20 File Handling.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\Assignment20 File Handling.genruntimeconfig.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment20 File Handling\obj\Debug\net9.0\ref\Assignment20 File Handling.dll
