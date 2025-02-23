@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.exe
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.deps.json
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.dll
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\bin\Debug\net6.0\NestedTryCatch.pdb
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.dll
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\refint\NestedTryCatch.dll
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.pdb
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\NestedTryCatch.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\NestedTryCatch\NestedTryCatch\obj\Debug\net6.0\ref\NestedTryCatch.dll

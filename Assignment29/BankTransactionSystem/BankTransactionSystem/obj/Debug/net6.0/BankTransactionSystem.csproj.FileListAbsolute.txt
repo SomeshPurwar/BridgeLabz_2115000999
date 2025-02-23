@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\bin\Debug\net6.0\BankTransactionSystem.exe
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\bin\Debug\net6.0\BankTransactionSystem.deps.json
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\bin\Debug\net6.0\BankTransactionSystem.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\bin\Debug\net6.0\BankTransactionSystem.dll
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\bin\Debug\net6.0\BankTransactionSystem.pdb
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.dll
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\refint\BankTransactionSystem.dll
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.pdb
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\BankTransactionSystem.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\BankTransactionSystem\BankTransactionSystem\obj\Debug\net6.0\ref\BankTransactionSystem.dll

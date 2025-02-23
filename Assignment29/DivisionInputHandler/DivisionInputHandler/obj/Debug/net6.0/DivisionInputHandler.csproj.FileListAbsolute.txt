@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\bin\Debug\net6.0\DivisionInputHandler.exe
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\bin\Debug\net6.0\DivisionInputHandler.deps.json
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\bin\Debug\net6.0\DivisionInputHandler.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\bin\Debug\net6.0\DivisionInputHandler.dll
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\bin\Debug\net6.0\DivisionInputHandler.pdb
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.dll
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\refint\DivisionInputHandler.dll
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.pdb
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\DivisionInputHandler.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\DivisionInputHandler\DivisionInputHandler\obj\Debug\net6.0\ref\DivisionInputHandler.dll

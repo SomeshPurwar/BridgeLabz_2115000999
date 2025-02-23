@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\bin\Debug\net6.0\FinallyBlockDemonstration.exe
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\bin\Debug\net6.0\FinallyBlockDemonstration.deps.json
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\bin\Debug\net6.0\FinallyBlockDemonstration.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\bin\Debug\net6.0\FinallyBlockDemonstration.dll
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\bin\Debug\net6.0\FinallyBlockDemonstration.pdb
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.dll
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\refint\FinallyBlockDemonstration.dll
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.pdb
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\FinallyBlockDemonstration.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\FinallyBlockDemonstration\FinallyBlockDemonstration\obj\Debug\net6.0\ref\FinallyBlockDemonstration.dll

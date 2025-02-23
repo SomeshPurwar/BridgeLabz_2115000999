@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\net6.0\CustomExceptionHandler.exe
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\net6.0\CustomExceptionHandler.deps.json
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\net6.0\CustomExceptionHandler.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\net6.0\CustomExceptionHandler.dll
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\net6.0\CustomExceptionHandler.pdb
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.dll
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\refint\CustomExceptionHandler.dll
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.pdb
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\CustomExceptionHandler.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\net6.0\ref\CustomExceptionHandler.dll

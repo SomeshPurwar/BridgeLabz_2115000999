@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\bin\Debug\net6.0\FileNotFoundHandler.exe
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\bin\Debug\net6.0\FileNotFoundHandler.deps.json
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\bin\Debug\net6.0\FileNotFoundHandler.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\bin\Debug\net6.0\FileNotFoundHandler.dll
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\bin\Debug\net6.0\FileNotFoundHandler.pdb
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.dll
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\refint\FileNotFoundHandler.dll
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.pdb
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\FileNotFoundHandler.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\FileNotFoundHandler\FileNotFoundHandler\obj\Debug\net6.0\ref\FileNotFoundHandler.dll

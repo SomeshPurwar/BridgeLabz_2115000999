@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\bin\Debug\net6.0\FileHandlingUsing.exe
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\bin\Debug\net6.0\FileHandlingUsing.deps.json
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\bin\Debug\net6.0\FileHandlingUsing.runtimeconfig.json
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\bin\Debug\net6.0\FileHandlingUsing.dll
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\bin\Debug\net6.0\FileHandlingUsing.pdb
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.dll
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\refint\FileHandlingUsing.dll
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.pdb
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\FileHandlingUsing.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment29\FileHandlingUsing\FileHandlingUsing\obj\Debug\net6.0\ref\FileHandlingUsing.dll
