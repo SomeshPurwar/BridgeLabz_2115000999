@@ -126,3 +126,8 @@
 
 - New Branch Created with name: `Assignment/20-02-2025`
 - Assignment done on Streams.
+
+**Date:** 21-02-2025
+
+- New Branch Created with name: `Assignment/21-02-2025`
+- Assignment done on Exception Handling.
