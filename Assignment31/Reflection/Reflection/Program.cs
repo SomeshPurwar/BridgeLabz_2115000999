@@ -1,0 +1,12 @@
+﻿//ReflectionDemo.Print();
+//ReflectionExample.Print();
+//ReflectionInvokePrivateMethod.Print();
+//ReflectionCreateObject.Print();
+//DynamicMethodInvocationDemo.Print();
+//RetrieveAttributeDemo.Print();
+//ModifyStaticFieldDemo.Print();
+//TestObjectMapper.Print();
+//TestJsonConverter.Print();
+//ProxyDemo.Print();
+//DependencyInjectionDemo.Print();
+TimeExecutionDemo.Print();

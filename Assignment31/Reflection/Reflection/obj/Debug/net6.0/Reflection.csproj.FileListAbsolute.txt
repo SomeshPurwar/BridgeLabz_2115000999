@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\bin\Debug\net6.0\Reflection.exe
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\bin\Debug\net6.0\Reflection.deps.json
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\bin\Debug\net6.0\Reflection.dll
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\bin\Debug\net6.0\Reflection.pdb
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.dll
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.pdb
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment31\Reflection\Reflection\obj\Debug\net6.0\ref\Reflection.dll

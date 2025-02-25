@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\bin\Debug\net6.0\Annotation.exe
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\bin\Debug\net6.0\Annotation.deps.json
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\bin\Debug\net6.0\Annotation.runtimeconfig.json
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\bin\Debug\net6.0\Annotation.dll
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\bin\Debug\net6.0\Annotation.pdb
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.dll
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\refint\Annotation.dll
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.pdb
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\Annotation.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment31\Annotation\Annotation\obj\Debug\net6.0\ref\Annotation.dll
