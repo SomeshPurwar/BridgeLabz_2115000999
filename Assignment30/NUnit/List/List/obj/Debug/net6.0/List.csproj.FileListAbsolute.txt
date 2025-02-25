@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment30\NUnit\List\List\bin\Debug\net6.0\List.exe
+D:\Dotnet Framework\Assignment30\NUnit\List\List\bin\Debug\net6.0\List.deps.json
+D:\Dotnet Framework\Assignment30\NUnit\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+D:\Dotnet Framework\Assignment30\NUnit\List\List\bin\Debug\net6.0\List.dll
+D:\Dotnet Framework\Assignment30\NUnit\List\List\bin\Debug\net6.0\List.pdb
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.dll
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\refint\List.dll
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.pdb
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment30\NUnit\List\List\obj\Debug\net6.0\ref\List.dll

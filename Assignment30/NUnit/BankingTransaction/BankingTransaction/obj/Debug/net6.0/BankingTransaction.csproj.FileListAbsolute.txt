@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\bin\Debug\net6.0\BankingTransaction.exe
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\bin\Debug\net6.0\BankingTransaction.deps.json
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\bin\Debug\net6.0\BankingTransaction.runtimeconfig.json
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\bin\Debug\net6.0\BankingTransaction.dll
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\bin\Debug\net6.0\BankingTransaction.pdb
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.dll
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\refint\BankingTransaction.dll
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.pdb
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\BankingTransaction.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment30\NUnit\BankingTransaction\BankingTransaction\obj\Debug\net6.0\ref\BankingTransaction.dll

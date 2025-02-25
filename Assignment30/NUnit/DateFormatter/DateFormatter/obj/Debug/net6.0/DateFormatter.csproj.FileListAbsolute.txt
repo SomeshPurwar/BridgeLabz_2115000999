@@ -1,0 +1,14 @@
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\bin\Debug\net6.0\DateFormatter.exe
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\bin\Debug\net6.0\DateFormatter.deps.json
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\bin\Debug\net6.0\DateFormatter.runtimeconfig.json
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\bin\Debug\net6.0\DateFormatter.dll
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\bin\Debug\net6.0\DateFormatter.pdb
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.dll
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\refint\DateFormatter.dll
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.pdb
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\DateFormatter.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment30\NUnit\DateFormatter\DateFormatter\obj\Debug\net6.0\ref\DateFormatter.dll
