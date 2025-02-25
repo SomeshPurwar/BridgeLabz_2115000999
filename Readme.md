@@ -131,3 +131,9 @@
 
 - New Branch Created with name: `Assignment/21-02-2025`
 - Assignment done on Exception Handling.
+
+**Date:** 22-02-2025
+
+- New Branch Created with name: `Assignment/22-02-2025`
+- Assignment done on Regex and NUnit Testing.
+
