@@ -146,3 +146,9 @@
 
 - New Branch Created with name: `Assignment/25-02-2025`
 - Assignment done on CSV File Handling.
+
+**Date:** 26-02-2025
+
+- New Branch Created with name: `Assignment/26-02-2025`
+- Assignment done on Working with JSON.
+
