@@ -1,0 +1,11 @@
+{
+  "name": "Somesh",
+  "age": 21,
+  "hobbies": [
+    "Coding",
+    "Playing Games",
+    "Cooking",
+    "Dancing"
+  ],
+  "city": "Jhansi"
+}
