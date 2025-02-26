@@ -1,0 +1,17 @@
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\bin\Debug\net6.0\CSVFile.exe
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\bin\Debug\net6.0\CSVFile.deps.json
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\bin\Debug\net6.0\CSVFile.runtimeconfig.json
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\bin\Debug\net6.0\CSVFile.dll
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\bin\Debug\net6.0\CSVFile.pdb
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.dll
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\refint\CSVFile.dll
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.pdb
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.genruntimeconfig.cache
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\ref\CSVFile.dll
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.csproj.AssemblyReference.cache
+D:\Dotnet Framework\Assignment32\CSVFile\CSVFile\obj\Debug\net6.0\CSVFile.csproj.Up2Date

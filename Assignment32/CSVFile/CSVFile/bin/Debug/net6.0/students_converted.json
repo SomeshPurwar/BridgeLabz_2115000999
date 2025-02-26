@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 101,
+    "Name": "John Doe",
+    "Age": 20,
+    "Marks": 85
+  },
+  {
+    "ID": 102,
+    "Name": "Jane Smith",
+    "Age": 22,
+    "Marks": 78
+  },
+  {
+    "ID": 103,
+    "Name": "Michael Brown",
+    "Age": 21,
+    "Marks": 92
+  },
+  {
+    "ID": 104,
+    "Name": "Emily Davis",
+    "Age": 23,
+    "Marks": 88
+  }
+]

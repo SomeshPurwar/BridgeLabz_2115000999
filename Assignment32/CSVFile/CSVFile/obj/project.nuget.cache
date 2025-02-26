@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8ads9BWXm0=",
+  "success": true,
+  "projectFilePath": "D:\\Dotnet Framework\\Assignment32\\CSVFile\\CSVFile\\CSVFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
