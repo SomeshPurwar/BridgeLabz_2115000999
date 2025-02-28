@@ -152,3 +152,7 @@
 - New Branch Created with name: `Assignment/26-02-2025`
 - Assignment done on Working with JSON.
 
+**Date:** 27-02-2025
+
+- New Branch Created with name: `27-02-2025`
+- Learnt basic asp.net web api core project structure.
