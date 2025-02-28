@@ -1,0 +1,11 @@
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Framework\UserRegistration\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
