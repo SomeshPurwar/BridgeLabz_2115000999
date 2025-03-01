@@ -156,3 +156,8 @@
 
 - New Branch Created with name: `27-02-2025`
 - Learnt basic asp.net web api core project structure.
+
+**Date:** 28-02-2025
+
+- New Branch Created with name: `Assignment/28-02-2025`
+- Learnt basic asp.net web api core project structure and make assignment on user registration api.
