@@ -161,3 +161,10 @@
 
 - New Branch Created with name: `Assignment/28-02-2025`
 - Learnt basic asp.net web api core project structure and make assignment on user registration api.
+Assignment done on web api of employee management in which made an api for adding employee, implements swagger and nlog.
+
+**Date:** 01-03-2025
+
+- New Branch Created with name: `Assignment/01-03-2025`
+- Assignment done on web api of employee management in which made an api for adding employee, implements swagger and nlog and also use entity.
+
