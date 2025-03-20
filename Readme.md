@@ -175,6 +175,11 @@ Assignment done on web api of employee management in which made an api for addin
 
 **Date:** 18-03-2025
 
-- New Branch Created with name: `Assignment/17-03-2025`
+- New Branch Created with name: `Assignment/18-03-2025`
 - completed assignment on basic Javascript.
+
+**Date:** 20-03-2025
+
+- New Branch Created with name: `Assignment/20-03-2025`
+- completed assignment on basic HTML and CSS.
 
