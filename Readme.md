@@ -168,3 +168,13 @@ Assignment done on web api of employee management in which made an api for addin
 - New Branch Created with name: `Assignment/01-03-2025`
 - Assignment done on web api of employee management in which made an api for adding employee, implements swagger and nlog and also use entity.
 
+**Date:** 17-03-2025
+
+- New Branch Created with name: `17-03-2025`
+- Practice basic Javascript.
+
+**Date:** 18-03-2025
+
+- New Branch Created with name: `Assignment/17-03-2025`
+- completed assignment on basic Javascript.
+
